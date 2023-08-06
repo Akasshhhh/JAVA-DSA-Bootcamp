@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "noOfDigits",
+            "request": "launch",
+            "mainClass": "Bitwise.noOfDigits",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "unpairedNo",
+            "request": "launch",
+            "mainClass": "Bitwise.unpairedNo",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "oddEven",
+            "request": "launch",
+            "mainClass": "Bitwise.oddEven",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion.BinarySearch",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.Fibonacci",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "p5",
+            "request": "launch",
+            "mainClass": "Patterns.p5",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "Patterns.p4",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "Patterns.p3",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "SBuilder",
+            "request": "launch",
+            "mainClass": "Lectures.Strings.StringBuilder.SBuilder",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Lectures.Strings.Operators",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "PrettyPrinting",
+            "request": "launch",
+            "mainClass": "Lectures.Strings.PrettyPrinting",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "CyclicSort",
+            "request": "launch",
+            "mainClass": "Lectures.Sorting.CyclicSort",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Lectures.Sorting.SelectionSort",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "Lectures.Sorting.InsertionSort",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Lectures.Sorting.BubbleSort",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "RowColMatrix",
+            "request": "launch",
+            "mainClass": "RowColMatrix",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "RotatedSortedArray",
+            "request": "launch",
+            "mainClass": "RotatedSortedArray",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "panagram",
+            "request": "launch",
+            "mainClass": "panagram",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Nonrepeatingcharacter",
+            "request": "launch",
+            "mainClass": "Nonrepeatingcharacter",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "CapitalCharacter",
+            "request": "launch",
+            "mainClass": "CapitalCharacter",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "FirstAndLastOccurence",
+            "request": "launch",
+            "mainClass": "FirstAndLastOccurence",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Arraylist.Arraylist",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArraylist",
+            "request": "launch",
+            "mainClass": "Arraylist.TwoDArraylist",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "CeilingOfANumber",
+            "request": "launch",
+            "mainClass": "CeilingOfANumber",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "CharacterCase",
+            "request": "launch",
+            "mainClass": "CharacterCase",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "CountingOccurences",
+            "request": "launch",
+            "mainClass": "CountingOccurences",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Fibonnaci",
+            "request": "launch",
+            "mainClass": "Fibonnaci",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "FloorOfANumber",
+            "request": "launch",
+            "mainClass": "FloorOfANumber",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "JaggedArray",
+            "request": "launch",
+            "mainClass": "JaggedArray",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "EvenNoofDigits",
+            "request": "launch",
+            "mainClass": "Lectures.LinearSearch.EvenNoofDigits",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "SearchIn2DArray",
+            "request": "launch",
+            "mainClass": "Lectures.LinearSearch.SearchIn2DArray",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "SearchInStrings",
+            "request": "launch",
+            "mainClass": "Lectures.LinearSearch.SearchInStrings",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Max",
+            "request": "launch",
+            "mainClass": "Max",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "FunctionOverloading",
+            "request": "launch",
+            "mainClass": "Methods.FunctionOverloading",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Shadowing",
+            "request": "launch",
+            "mainClass": "Methods.Shadowing",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "Methods.VarArgs",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "classes",
+            "request": "launch",
+            "mainClass": "Methods.classes",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "SumInArray",
+            "request": "launch",
+            "mainClass": "SumInArray",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Datatype",
+            "request": "launch",
+            "mainClass": "Tutorial_Basics.Datatype",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Tutorial_Basics.Input",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "IntInput",
+            "request": "launch",
+            "mainClass": "Tutorial_Basics.IntInput",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "TypeConversion",
+            "request": "launch",
+            "mainClass": "Tutorial_Basics.TypeConversion",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "key",
+            "request": "launch",
+            "mainClass": "key",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "JAVA_a4a2367e"
+        }
+    ]
+}
