@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveA",
+            "request": "launch",
+            "mainClass": "RemoveA",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Recursion.MergeSort",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Recursion.BubbleSort",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Triangle1",
+            "request": "launch",
+            "mainClass": "Recursion.Triangle1",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchRec",
+            "request": "launch",
+            "mainClass": "Recursion.LinearSearchRec",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "CheckIfSorted",
+            "request": "launch",
+            "mainClass": "Recursion.CheckIfSorted",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "ReverseANo",
+            "request": "launch",
+            "mainClass": "Recursion.ReverseANo",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "Recursion.SumOfDigits",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Nto1",
+            "request": "launch",
+            "mainClass": "Recursion.Nto1",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
             "name": "noOfDigits",
             "request": "launch",
             "mainClass": "Bitwise.noOfDigits",
