@@ -20,7 +20,7 @@ public class LinearSearchRec {
         if (arr[index] == target) {
             return index;
         }
-        if (index == arr.length - 1) {
+        if (index == arr.length) {
             return -1;
         }
         if (arr[index] != target) {

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "RotatedBinarySearch",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "ReturingArrayListFromFunction",
+            "request": "launch",
+            "mainClass": "ReturingArrayListFromFunction",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "FindUsingArrayList",
+            "request": "launch",
+            "mainClass": "FindUsingArrayList",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Subsequence",
+            "request": "launch",
+            "mainClass": "Subsequence",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
             "name": "RemoveA",
             "request": "launch",
             "mainClass": "RemoveA",
