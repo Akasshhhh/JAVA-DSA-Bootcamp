@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllPath",
+            "request": "launch",
+            "mainClass": "AllPath",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "ObstacleinPath",
+            "request": "launch",
+            "mainClass": "ObstacleinPath",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "DiagonalPath",
+            "request": "launch",
+            "mainClass": "DiagonalPath",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "PrintingPath",
+            "request": "launch",
+            "mainClass": "Recursion.Maze.PrintingPath",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Maze",
+            "request": "launch",
+            "mainClass": "Recursion.Maze.Maze",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "SkipACharacter",
+            "request": "launch",
+            "mainClass": "SkipACharacter",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort1",
+            "request": "launch",
+            "mainClass": "MergeSort1",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
             "name": "RotatedBinarySearch",
             "request": "launch",
             "mainClass": "RotatedBinarySearch",
