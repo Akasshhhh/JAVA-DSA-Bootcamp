@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "NKnights",
+            "request": "launch",
+            "mainClass": "NKnights",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "NQueens",
+            "projectName": "JAVA_a4a2367e"
+        },
+        {
+            "type": "java",
             "name": "AllPath",
             "request": "launch",
             "mainClass": "AllPath",
